@@ -1,0 +1,30 @@
+body {
+background-image: url(https://img.freepik.com/premium-photo/hexagons-pattern-background-genetic-research-molecular-structure_322958-2806.jpg);
+font-family: "Century Gothic", Verdana, sans-serif;
+}
+strong{
+  text-align: right;
+  }
+
+
+h1
+{text-align: center;
+  color: #993366 !important;
+  font-style: italic;
+  text-shadow: 2px 2px 4px #444;
+}
+span{
+color: blue;
+}
+h2{
+  color: blue;
+  font-weight: bold;
+}
+
+ 
+    div {
+      text-align: center;
+    }
+    li{
+      font-weight: bold
+    }
